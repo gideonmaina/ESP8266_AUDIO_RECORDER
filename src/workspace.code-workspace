@@ -1,0 +1,108 @@
+{
+	"folders": [
+		{
+			"path": "../../NodeMCU I2C scanner"
+		},
+		{
+			"name": "GPIO EXPANDER",
+			"path": "../../GPIO EXPANDER"
+		},
+		{
+			"name": "NodeMCU pin test",
+			"path": "../../NodeMCU pin test"
+		},
+		{
+			"name": "NodeMCU SD CARD READ_WRITE",
+			"path": "../../NodeMCU SD CARD READ_WRITE"
+		},
+		{
+			"name": "Serial Print Test",
+			"path": "../../Serial Print Test"
+		},
+		{
+			"name": "Arduino Serial print test",
+			"path": "../../Arduino Serial print test"
+		},
+		{
+			"name": "ATMEGA328P Serial Test",
+			"path": "../../ATMEGA328P Serial Test"
+		},
+		{
+			"name": "ESP8266 AUDIO SDCARD RECORD",
+			"path": ".."
+		},
+		{
+			"name": "arduino-wav-sdcard",
+			"path": "../../esp32_sdcard_audio/arduino-wav-sdcard"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "cpp",
+			"cmath": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"*.tcc": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"chrono": "cpp",
+			"clocale": "cpp",
+			"compare": "cpp",
+			"complex": "cpp",
+			"concepts": "cpp",
+			"condition_variable": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"netfwd": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"fstream": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"limits": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"numbers": "cpp",
+			"ostream": "cpp",
+			"ranges": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"thread": "cpp",
+			"cinttypes": "cpp",
+			"typeinfo": "cpp"
+		}
+	}
+}
